@@ -2,13 +2,8 @@
 -- Based on the uploaded DeltaKeyboard script.
 -- Custom keys now support click/hold, touch, close, minimize/restore, dragging,
 -- and validation of Enum.KeyCode names.
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/cracked.txt", true))()
 
---[[
-	Delta Mobile | Keyboard Script
-	CRACKED MADE BY ATA
-	FUCKİNG SCRİPT SORRY
-]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/cracked.txt", true))()
 
 -- Instances: 345 | Scripts: 6 | Modules: 0
 local G2L = {};
